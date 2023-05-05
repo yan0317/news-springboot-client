@@ -20,4 +20,5 @@ public class BusinessNews {
     private Long like;
     private String date;
     private Long page_view;
+
 }
